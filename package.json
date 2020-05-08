@@ -1,0 +1,10 @@
+{
+  "name": "@shiphero/prettier",
+  "version": "1.0.0",
+  "description": "Company-wide prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:Shiphero/prettier.git",
+  "author": "Karol Kowalczuk <karol@shiphero.com>",
+  "private": true,
+  "license": "UNLICENSED"
+}
